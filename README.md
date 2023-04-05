@@ -17,7 +17,7 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 **Tools**
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,aws,gcp,heroku,redis,git,docker)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=webpack,aws,gcp,redis,git,docker)](https://skillicons.dev)
 
 
 
@@ -29,12 +29,14 @@ I spend the most of my time problem solving and building realistic high fidelity
 <p align="center">Please :star: any project  you find interesting — it motivates me a lot! 😀</p>
     
 
-
-    
 #### Top Repositories
     
 <a href="https://github.com/pycomet-zz/escrow-service-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=escrow-service-bot" />
+</a> 
+
+<a href="https://github.com/pycomet-zz/telegram-group-engagement-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=telegram-group-engagement-bot" />
 </a> 
     
     
