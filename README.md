@@ -17,7 +17,7 @@ I spent most of my time problem solving and building realistic business solution
     <img src="https://github-readme-stats.vercel.app/api?username=pycomet&account_private=true&include_all_commits=true&show_icons=true&bg_color=90,103050,109095&title_color=fff&text_color=fff&icon_color=fff&hide=prs" alt="Codefred GitHub stats" />
 <p> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=false" /></a>
     
 #### Top Repositories
     
