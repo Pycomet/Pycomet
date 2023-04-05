@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Pycomet)
-## Hi there 👋, I'm Codefred 🇳🇬
+## Hey 👋, I'm Codefred 🇳🇬
+[![Github](https://img.shields.io/github/followers/pycomet?label=Follow&style=social)](https://github.com/pycomet)
 
 I spend the most of my time problem solving and building realistic high fidelity business solutions 🇳🇬
 
@@ -9,12 +10,12 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 - ❤️ I love writing Python & TypeScript
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,node,c)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,node,c&perline=3)](https://skillicons.dev)
 
 
 
 <p align="center">
-    <a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=true" /></a>
+    <a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=false" /></a>
 <p>
     
     
