@@ -32,12 +32,10 @@ I spend the most of my time problem solving and building realistic high fidelity
 #### Top Repositories
     
 <a href="https://github.com/pycomet-zz/escrow-service-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=escrow-service-bot" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=escrow-service-bot" />
 </a> 
 
-<a href="https://github.com/pycomet-zz/telegram-group-engagement-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=telegram-group-engagement-bot" />
-</a> 
+
     
     
 
