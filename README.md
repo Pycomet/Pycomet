@@ -9,15 +9,16 @@ I spent most of my time problem solving and building realistic business solution
 
 - ❤️ I love writing Python & TypeScript
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,node,c)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,node,c)](https://skillicons.dev) -->
 
 
 
-<!-- <p align="left">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pycomet&account_private=true&include_all_commits=true&show_icons=true&bg_color=90,103050,109095&title_color=fff&text_color=fff&icon_color=fff&hide=prs" alt="Codefred GitHub stats" />
 <p> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=false" /></a>
+<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=false" /></a>
+<p align="right">Please :star: any project  you find interesting — it motivates me a lot! 😀</p>
     
 #### Top Repositories
     
@@ -30,4 +31,4 @@ I spent most of my time problem solving and building realistic business solution
     
     
     
-<p align="right">Please :star: any project  you find interesting — it motivates me a lot! 😀</p>
+
