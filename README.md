@@ -10,7 +10,7 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 - ❤️ I love writing Python & TypeScript
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,node,c&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs,react,mongodb,postgresql)](https://skillicons.dev)
 
 
 
