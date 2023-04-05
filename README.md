@@ -13,11 +13,16 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=pycomet&account_private=true&include_all_commits=false&show_icons=true&bg_color=90,103050,109095&title_color=fff&text_color=fff&icon_color=fff&hide=prs" alt="Codefred GitHub stats" />
+<p align="center">
+    <a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=true" /></a>
 <p>
+    
+    <br />
+    
+<p align="left">Please :star: any project  you find interesting — it motivates me a lot! 😀</p>
+    
 
-<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycomet&layout=compact&hide_border=true" /></a>
+
     
 #### Top Repositories
     
@@ -26,6 +31,5 @@ I spend the most of my time problem solving and building realistic high fidelity
 </a> 
     
     
-<p align="center">Please :star: any project  you find interesting — it motivates me a lot! 😀</p>
-    
+
 
