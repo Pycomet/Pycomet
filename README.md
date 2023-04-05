@@ -1,8 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/Pycomet)
 <br />
-<p align="center">
+<p align="left">
     <a href="https://codefred.me">
-        Hey, I'm Codefred 👋🏽
+       ## Hey, I'm Codefred 👋🏽
     </a>
 </p>
 
