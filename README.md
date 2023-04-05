@@ -2,8 +2,7 @@
 ## Hi 👋, I'm Codefred 🇳🇬
 
 Being a problem solver, I design useful and beautiful business solutions.
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pycomet&show_icons=true)  
+
 
 
 #### [View more reputable work](https://github.com/pycomet-zz)
