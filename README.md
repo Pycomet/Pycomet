@@ -10,7 +10,14 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 - ❤️ I love writing Python & TypeScript
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs,react,mongodb,postgresql)](https://skillicons.dev)
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs)](https://skillicons.dev)
+
+**Tools**
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,aws,gcp,heroku,redis,git,docker)](https://skillicons.dev)
 
 
 
