@@ -37,5 +37,5 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 
 <br />
-Please feel free to explore 😉
+<p align="right">Please feel free to explore 😉 </p>
 
