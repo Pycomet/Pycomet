@@ -1,8 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/Pycomet)
-## Hey 👋, I'm Codefred 🇳🇬
+## Hey 👋, I'm Codefred 
 [![Github](https://img.shields.io/github/followers/pycomet?label=Follow&style=social)](https://github.com/pycomet)
 
-I spend the most of my time problem solving and building realistic high fidelity business solutions 🇳🇬
+I spend the most of my time problem solving and building realistic high fidelity business solutions worldwide.
 
 **About me**
 
@@ -35,5 +35,7 @@ I spend the most of my time problem solving and building realistic high fidelity
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=escrow-service-bot" />
 </a> 
 
+
+<br />
 Please feel free to explore 😉
 
