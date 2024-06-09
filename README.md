@@ -6,9 +6,7 @@ I spend the most of my time problem solving and building realistic high fidelity
 
 **About me**
 
-- 💼 Senior Software Engineer at [InferenceCloud](http://inferencecloud.ai)
-
-- ❤️ I love writing Python & TypeScript
+- ❤️ I love writing clean & efficient code 
 
 
 **Languages**
