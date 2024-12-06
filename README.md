@@ -12,3 +12,8 @@ I spend the most of my time problem solving and building realistic high fidelity
 <br />
 <p align="right">Please feel free to explore 😉 </p>
 
+#### Top Repositories
+    
+<a href="https://github.com/pycomet-zz/escrow-service-bot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pycomet-zz&repo=escrow-service-bot" />
+</a> 
