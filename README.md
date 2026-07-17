@@ -17,7 +17,7 @@
 
 ---
 
-🏢 Senior Full-Stack Engineer @ [InferenceCloud.ai](https://inferencecloud.ai) · Building [GrindProof](https://grindproof.co)
+🏢 Senior Full-Stack Engineer @ [ORGN](https://orgn.com) · Building [GrindProof](https://grindproof.co)
 
 ---
 
